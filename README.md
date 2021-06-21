@@ -1,5 +1,5 @@
 ![Intro Pic](intro.png)
-# Disaster_Respone_app
+# Disaster_Respone_Project
 DSND Project
 
 This project is a part of Udacity Data Science Nanodegree. Often during and after a disaster strikes, it is not easy to classify a response as legit or fake, and it comes on the way of quick help. Better classification of responses can help in faster aid and rescue. An efficient and user friendly app can be very crucial at these times.
